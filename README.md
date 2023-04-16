@@ -1,1 +1,1 @@
-*Emphasize* 
+**Strong** __Strong__ 
